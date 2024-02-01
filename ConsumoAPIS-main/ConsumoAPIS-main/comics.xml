@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<comics>
+	<comic>
+		<id>999</id>
+		<digitalId>15643254</digitalId>
+		<title>Official Handbook of the Marvel Universe (2004) #13 (TEAMS)</title>
+		<issueNumber>13</issueNumber>
+		<pathImage>http://i.annihil.us/u/prod/marvel/i/mg/f/20/4bc63a47b8dcb.jpg</pathImage>
+		<format>Comic</format>
+		<nHistories>2</nHistories>
+		<lastModified>-0001-11-30T00:00:00-0500</lastModified>
+		<variantDescription>TEAMS</variantDescription>
+		<language>en-us</language>
+	</comic>
+	<comic>
+		<id>998</id>
+		<digitalId>15643256</digitalId>
+		<title>Gun Theory (2003) #3</title>
+		<issueNumber>3</issueNumber>
+		<pathImage>http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bc69f11baf75.jpg</pathImage>
+		<format>Comic</format>
+		<nHistories>2</nHistories>
+		<lastModified>-0001-11-30T00:00:00-0500</lastModified>
+		<variantDescription>En el oscuro rincón del multiverso, un héroe renace
+			de las sombras, enfrentándose a un destino entrelazado con poderes
+			cósmicos y enemigos indomables. </variantDescription>
+		<language>en-us</language>
+	</comic>
+</comics>
